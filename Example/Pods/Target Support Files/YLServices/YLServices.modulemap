@@ -1,0 +1,6 @@
+framework module YLServices {
+  umbrella header "YLServices-umbrella.h"
+
+  export *
+  module * { export * }
+}

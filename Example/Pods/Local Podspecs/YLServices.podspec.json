@@ -1,0 +1,32 @@
+{
+  "name": "YLServices",
+  "version": "0.0.1",
+  "summary": "YLServices 的简单介绍",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/774792381@qq.com/YLServices",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "774792381@qq.com": "774792381@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/774792381@qq.com/YLServices.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "YLServices/Classes/**/*",
+  "resource_bundles": {
+    "YLServices": [
+      "YLServices/Assets/*"
+    ]
+  },
+  "dependencies": {
+    "AFNetworking": [
+      "4.0.1"
+    ]
+  }
+}
