@@ -8,23 +8,20 @@
 
 #import "YLViewController.h"
 #import <YLServices/PeopleModel.h>
+
 @interface YLViewController ()
 
 @end
 
 @implementation YLViewController
 
-- (void)viewDidLoad
-{
+- (void)viewDidLoad{
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
     self.view.backgroundColor = UIColor.whiteColor;
-}
-
-- (void)didReceiveMemoryWarning
-{
-    [super didReceiveMemoryWarning];
-    // Dispose of any resources that can be recreated.
+    
+    PeopleModel *model = [[PeopleModel alloc] init];
+    NSLog(@"model ===== %@",model);
 }
 
 @end
