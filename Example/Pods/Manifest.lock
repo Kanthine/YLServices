@@ -53,7 +53,7 @@ SPEC CHECKSUMS:
   "Expecta+Snapshots": dcff217eef506dabd6dfdc7864ea2da321fafbb8
   FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
   Specta: 3e1bd89c3517421982dc4d1c992503e48bd5fe66
-  YLServices: 176d617cc1cae07ff33b89cb819f2be2ab88ad87
+  YLServices: 6b3212d22c005bfa46baf07bdee4d09f923717dd
 
 PODFILE CHECKSUM: 16bb7519b5fea6ac368a890f54f8c65e2ef4a60d
 
